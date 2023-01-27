@@ -1,0 +1,5 @@
+Paulinho.Alvalade.Fifa DB files/Alvalade/databasePaulinhoSS.txt
+Paulinho.Alvalade.Fifa SP 10.0.12.13
+Paulinho.Alvalade.Fifa LG files/Alvalade/Logs/ssAlvalade.log
+all LG files/Alvalade/Logs/allAlvalade.log
+myIP IP 10.0.13.11:5555

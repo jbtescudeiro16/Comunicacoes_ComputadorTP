@@ -1,0 +1,28 @@
+@ DEFAULT Alvalade.Fifa.  
+TTL DEFAULT 10 
+@ SOASP ns1.Alvalade.Fifa. TTL 
+@ SOAADMIN dns\.admin.Alvalade.Fifa. TTL 
+@ SOASERIAL 8 TTL 
+@ SOAREFRESH 10 TTL 
+@ SOARETRY 10 TTL 
+@ SOAEXPIRE 10 TTL 
+@ NS ns1.Alvalade.Fifa. TTL 
+@ NS ns2.Alvalade.Fifa. TTL 
+@ NS ns3.Alvalade.Fifa. TTL 
+@ NS ns4.Alvalade.Fifa. TTL 
+@ MX mx1.Alvalade.Fifa. TTL 10
+@ MX mx2.Alvalade.Fifa. TTL 20
+ns1.Alvalade.Fifa. A 10.0.8.13 TTL 
+ns2.Alvalade.Fifa. A 10.0.9.11 TTL 
+ns3.Alvalade.Fifa. A 10.0.9.12 TTL 
+ns4.Alvalade.Fifa. A 10.0.9.10 TTL 
+sp.Paulinho.Alvalade.Fifa. A 10.0.12.13 TTL 
+mx1.Alvalade.Fifa. A 10.0.8.10 TTL 
+mx2.Alvalade.Fifa. A 10.0.8.11 TTL 
+www.Alvalade.Fifa. A 10.0.8.12 TTL 
+sp CNAME ns1   
+ss1 CNAME ns2   
+ss2 CNAME ns3   
+sr CNAME ns4   
+mail1 CNAME mx1   
+mail2 CNAME mx2   

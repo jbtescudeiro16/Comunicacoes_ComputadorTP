@@ -1,0 +1,125 @@
+1:12:2022.15:11:53:925600 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:11:53:925600 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:12:40:419059 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:12:40:419059 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:14:35:118875 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:14:35:118875 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:16:8:450634 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:16:8:450634 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:17:10:194798 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:17:10:194798 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:17:10:194798 EZ 10.0.8.13 SS
+1:12:2022.15:17:10:194798 ST 127.0.0.1 5555 2000 debug
+1:12:2022.15:19:19:347307 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:19:19:347307 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:19:19:347307 EZ 10.0.8.13 SS
+1:12:2022.15:19:19:347307 ST 127.0.0.1 5555 2000 debug
+1:12:2022.15:21:46:236951 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:21:46:236951 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:21:46:236951 ZT 10.0.8.13 SS
+1:12:2022.15:21:46:236951 ER db-file-updated files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:21:46:236951 ST 127.0.0.1 5555 2000 debug
+1:12:2022.15:32:16:244772 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:32:16:244772 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:32:16:244772 ST 127.0.0.1 5555 2000 debug
+1:12:2022.15:32:16:244772 QR ('10.0.8.20', 58890) b'19897,Q,0,0,0,0;Alvalade.Fifa.,NS;'
+1:12:2022.15:36:27:749951 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+1:12:2022.15:36:27:749951 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+1:12:2022.15:36:27:749951 ST 127.0.0.1 5555 2000 debug
+1:12:2022.15:36:27:749951 QR ('10.0.8.20', 36002) b'55162,Q,0,0,0,0;Alvalade.Fifa.,NS;'
+1:12:2022.15:36:27:749951 QR ('10.0.8.20', 48192) b'31633,Q,0,0,0,0;Alvalade.Fifa.,A;'
+2:12:2022.12:44:6:587197 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.12:44:6:587197 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.12:44:6:587197 ZT 10.0.8.13 SS
+2:12:2022.12:44:6:587197 ER db-file-updated files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.12:44:6:587197 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:25:28:461426 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:25:28:461426 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:25:28:461426 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:29:8:314713 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:29:8:314713 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:29:8:314713 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:29:46:195490 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:29:46:195490 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:29:46:195490 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:44:56:548207 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:44:56:548207 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:44:56:548207 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:46:54:763331 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:46:54:763331 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:46:54:763331 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:47:19:907681 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:47:19:907681 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:47:19:907681 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:54:5:910252 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:54:5:910252 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:54:5:910252 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:55:36:587262 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:55:36:587262 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:55:36:587262 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:56:45:666023 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:56:45:666023 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:56:45:666023 ST 127.0.0.1 5555 2000 debug
+2:12:2022.17:59:6:68394 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.17:59:6:68394 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.17:59:6:68394 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:24:7:144114 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:24:7:144114 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:24:7:144114 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:26:10:399555 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:26:10:399555 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:26:10:399555 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:27:15:853579 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:27:15:853579 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:27:15:853579 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:29:46:176543 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:29:46:176543 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:29:46:176543 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:32:3:153709 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:32:3:153709 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:32:3:153709 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:33:12:828997 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:33:12:828997 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:33:12:828997 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:39:25:931547 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:39:25:931547 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:39:25:931547 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:41:20:647104 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:41:20:647104 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:41:20:647104 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:42:35:554195 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:42:35:554195 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:42:35:554195 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:48:17:951153 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:48:17:951153 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:48:17:951153 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:48:40:776762 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:48:40:776762 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:48:40:776762 ST 127.0.0.1 5555 2000 debug
+2:12:2022.18:50:1:173400 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.18:50:1:173400 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.18:50:1:173400 ST 127.0.0.1 5555 2000 debug
+2:12:2022.19:6:38:742023 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:6:38:742023 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:6:38:742023 ST 127.0.0.1 5555 2000 debug
+2:12:2022.19:6:46:320146 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:6:46:320146 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:6:46:320146 ST 127.0.0.1 5555 2000 debug
+2:12:2022.19:7:50:249375 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:7:50:249375 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:7:50:249375 ST 127.0.0.1 5555 2000 debug
+2:12:2022.19:8:2:761659 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:8:2:761659 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:8:2:761659 ST 127.0.0.1 5555 2000 debug
+2:12:2022.19:13:17:714303 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:13:17:714303 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:13:17:714303 ST 127.0.0.1 5555 2000 debug
+2:12:2022.19:14:5:583536 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:14:5:583536 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:14:9:220314 EV 127.0.0.1 conf-file-read files/Alvalade/configSSAlvalade.txt
+2:12:2022.19:14:9:220314 EV 127.0.0.1 db-file-read files/Alvalade/databaseAlvaladeSS.txt
+2:12:2022.19:14:9:220314 ST 127.0.0.1 5555 2000 debug
+30:12:2022.18:19:51:400440 EV 127.0.0.1 conf-file-read files-tiago/Alvalade/configSSPaulinho.txt
+30:12:2022.18:23:20:871427 EV 127.0.0.1 conf-file-read files-tiago/Alvalade/configSSPaulinho.txt
+30:12:2022.18:23:20:871427 EV 127.0.0.1 db-file-read files-tiago/Alvalade/databasePaulinhoSS.txt
+30:12:2022.18:23:20:871427 ST 127.0.0.1 5555 2000 normal

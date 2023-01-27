@@ -1,0 +1,4 @@
+reverse.Fifa. DB files/10-reverse.db
+Alvalade.Fifa LG files/Alvalade/Logs/sRevAlvalade.log
+myIP IP 10.0.0.10:5555
+

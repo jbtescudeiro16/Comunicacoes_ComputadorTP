@@ -1,0 +1,5 @@
+Fifa DB files/databaseFifa.txt
+Fifa LG files/Alvalade/Logs/stAlvalade.log
+all LG files/Alvalade/Logs/allAlvalade.log
+root ST files/Alvalade/databaseSTAlvalade
+myIP IP 10.0.3.10:5555

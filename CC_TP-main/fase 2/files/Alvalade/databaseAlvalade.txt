@@ -1,0 +1,39 @@
+# DNS database file for domain Alvalade.Fifa
+# It also includes a pointer to the primary server
+# of the Paulinho.Alvalade.Fifa subdomain
+
+@ DEFAULT Alvalade.Fifa.
+TTL DEFAULT 10
+
+@ SOASP ns1.Alvalade.Fifa. TTL
+@ SOAADMIN dns\.admin.Alvalade.Fifa. TTL
+@ SOASERIAL 20 TTL
+@ SOAREFRESH 10 TTL
+@ SOARETRY 10 TTL
+@ SOAEXPIRE 10 TTL
+
+@ NS ns1.Alvalade.Fifa. TTL
+@ NS ns2.Alvalade.Fifa. TTL
+@ NS ns3.Alvalade.Fifa. TTL
+@ NS ns4.Alvalade.Fifa. TTL
+
+Paulinho.@ NS sp.Paulinho.Alvalade.Fifa.
+
+@ MX mx1.Alvalade.Fifa. TTL 10
+@ MX mx2.Alvalade.Fifa. TTL 20
+
+ns1 A 10.0.8.13 TTL
+ns2 A 10.0.9.11 TTL
+ns3 A 10.0.9.12 TTL
+ns4 A 10.0.9.10 TTL
+sp.Paulinho A 10.0.12.13 TTL
+mx1 A 10.0.8.10 TTL
+mx2 A 10.0.8.11 TTL
+www A 10.0.8.12 TTL
+
+sp CNAME ns1 TTL
+ss1 CNAME ns2 TTL
+ss2 CNAME ns3 TTL
+sr CNAME ns4 TTL
+mail1 CNAME mx1 TTL
+mail2 CNAME mx2 TTL

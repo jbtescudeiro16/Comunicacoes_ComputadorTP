@@ -1,0 +1,48 @@
+@ DEFAULT 10.addr.reverse.
+TTL DEFAULT 10 
+@ SOASP ns1.10.addr.reverse. TTL 
+@ SOAADMIN dns\.admin.10.addr.reverse. TTL 
+@ SOASERIAL 0000000000 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+
+@ NS ns1.10.addr.reverse. TTL
+ns1.10.addr.reverse A 10.0.0.10 TTL
+
+10.0.12.10 PTR mx1.Paulinho.Alvalade.Fifa. TTL
+
+10.0.8.13 PTR ns1.Alvalade.Fifa. TTL
+10.0.9.11 PTR ns2.Alvalade.Fifa. TTL
+10.0.9.12 PTR ns3.Alvalade.Fifa. TTL
+
+10.0.10.10 PTR mx1.Enzo.Luz.Fifa. TTL
+10.0.10.11 PTR mx2.Enzo.Luz.Fifa. TTL
+
+10.0.14.13 PTR ns1.Luz.Fifa. TTL
+10.0.15.11 PTR ns2.Luz.Fifa. TTL
+10.0.15.12 PTR ns3.Luz.Fifa. TTL
+
+10.0.10.13 PTR ns1.Enzo.Luz.Fifa. TTL
+10.0.11.11 PTR ns2.Enzo.Luz.Fifa. TTL
+10.0.11.12 PTR ns3.Enzo.Luz.Fifa. TTL
+
+10.0.12.13 PTR ns1.Paulinho.Alvalade.Fifa. TTL
+10.0.13.11 PTR ns2.Paulinho.Alvalade.Fifa. TTL
+10.0.13.12 PTR ns3.Paulinho.Alvalade.Fifa. TTL
+
+
+@ NS ns1.addr.reverse. TTL
+ns1 A 10.0.0.10 TTL
+
+10.@ NS ns1.10.addr.reverse. TTL
+10.@ A 10.0.0.10 TTL
+
+
+@ NS ns1.reverse. TTL
+addr.reverse. NS sp.addr.reverse. TTL
+
+ns1 A 10.0.0.10 TTL
+sp.addr.reverse. A 10.0.0.10 TTL
+
+sp CNAME ns1 TTL
